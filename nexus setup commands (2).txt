@@ -1,5 +1,4 @@
-NEXUS SETUP COMMANDS : (copy paste these commands one by one) -
-
+NEXUS SETUP COMMANDS : (copy paste these commands one by one) 
 
 yum install java-17-amazon-corretto -y
 
